@@ -1,0 +1,26 @@
+{
+  "name": "zuri-portfolio-task",
+  "version": "1.0.0",
+  "description": "Zuri Assigment on Http modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Analog-ng/zuri-portfolio-task.git"
+  },
+  "author": "Oluwabamise Olatunji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Analog-ng/zuri-portfolio-task/issues"
+  },
+  "homepage": "https://github.com/Analog-ng/zuri-portfolio-task#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
